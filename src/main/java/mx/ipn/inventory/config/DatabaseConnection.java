@@ -12,8 +12,8 @@ public final class DatabaseConnection {
                     "&serverTimezone=America/Mexico_City" +
                     "&allowPublicKeyRetrieval=true";
 
-    private static final String USER = "root";
-    private static final String PASSWORD = "1234";
+    private static final String USER = "ealdana";
+    private static final String PASSWORD = "3m1l14n0_V_A";
 
     static {
         try {
